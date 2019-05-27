@@ -1,0 +1,6 @@
+2. Explain why you are interested in Automation?
+
+I choose automation tester instead of manual tester is because there are so many task that I can automate 
+to simplify my work and I’m not doing the same thing again and again. I understand that not all tasks can be automated 
+because there are several problem should validate by person, for instance when the administrator have to validate whether 
+the ID card is valid or not.
