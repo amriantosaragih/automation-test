@@ -1,3 +1,6 @@
 [submodule "OopConcept"]
 	path = OopConcept
 	url = https://github.com/amriantosaragih/OopConcept
+[submodule "Greetings"]
+	path = Greetings
+	url = https://github.com/amriantosaragih/Greetings
