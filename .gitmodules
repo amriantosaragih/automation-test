@@ -4,3 +4,6 @@
 [submodule "Greetings"]
 	path = Greetings
 	url = https://github.com/amriantosaragih/Greetings
+[submodule "LogicTest"]
+	path = LogicTest
+	url = https://github.com/amriantosaragih/LogicTest
