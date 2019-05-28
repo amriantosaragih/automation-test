@@ -7,3 +7,6 @@
 [submodule "LogicTest"]
 	path = LogicTest
 	url = https://github.com/amriantosaragih/LogicTest
+[submodule "http-request"]
+	path = http-request
+	url = https://github.com/amriantosaragih/http-request
