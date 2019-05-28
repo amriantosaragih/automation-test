@@ -10,3 +10,6 @@
 [submodule "http-request"]
 	path = http-request
 	url = https://github.com/amriantosaragih/http-request
+[submodule "JsonParser"]
+	path = JsonParser
+	url = https://github.com/amriantosaragih/JsonParser
